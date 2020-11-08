@@ -1,0 +1,6 @@
+[requires]
+freeglut/3.0.0@bincrafters/stable
+
+[generators]
+cmake
+visual_studio
